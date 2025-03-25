@@ -40,7 +40,7 @@ Our approach involved:
 
 ### Key Findings
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](/images/feature_importance.png)
 
 Our analysis revealed several critical insights for real estate investors:
 
@@ -54,7 +54,7 @@ Our analysis revealed several critical insights for real estate investors:
 
 5. **Bathroom Balance**: Additional bathrooms provide diminishing returns after 2.5 total bathrooms, with the first bathroom addition yielding the highest ROI.
 
-![ROI Comparison](improvement_roi.png)
+![ROI Comparison](images/improvement_roi.png)
 
 ### Conclusions
 Our Ridge regression model with carefully selected features achieves strong predictive performance while providing interpretable insights for investment decisions. By transforming the prediction problem into practical ROI calculations, we enable investors to quantify the expected returns from specific property improvements.
